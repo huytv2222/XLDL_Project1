@@ -3,25 +3,24 @@
 Dự án được thực hiện qua các giai đoạn chính sau:
 
 1. Giới thiệu dự án
-1.1 Giới thiệu
+  1.1 Giới thiệu
 
-  Trình bày hiện trạng doanh nghiệp/đơn vị.
-  
-  Giới thiệu bộ dữ liệu: nguồn dữ liệu, quy mô, đặc điểm.
+    Trình bày hiện trạng doanh nghiệp/đơn vị.
+    Giới thiệu bộ dữ liệu: nguồn dữ liệu, quy mô, đặc điểm.
 
-1.2 Yêu cầu của công ty
+  1.2 Yêu cầu của công ty
 
-  Yêu cầu về dữ liệu (cần phân tích gì?).
-  
-  Yêu cầu về quản lý – lưu trữ dữ liệu.
-  
-  Mục tiêu cuối cùng của dự án.
-  
-  Tự đánh giá tính khả thi:
-  
-  Các kỹ năng hiện có.
-  
-  Các kỹ năng cần bổ sung.
+    Yêu cầu về dữ liệu (cần phân tích gì?).
+    
+    Yêu cầu về quản lý – lưu trữ dữ liệu.
+    
+    Mục tiêu cuối cùng của dự án.
+    
+    Tự đánh giá tính khả thi:
+    
+    Các kỹ năng hiện có.
+    
+    Các kỹ năng cần bổ sung.
 
 1.3 Lập kế hoạch dự án
 
